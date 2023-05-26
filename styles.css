@@ -50,7 +50,7 @@ a:visited {
 
 
 @media (max-width:700px) {
-    .info {
+    .container {
         display: block;
         text-align: center;
     }
@@ -118,7 +118,7 @@ H4 {
 }
 
 .card:nth-child(even) {
-    background-color: rgb(202, 199, 202)
+    background-color: rgb(214, 204, 212)
 }
 
 .card h2 {
